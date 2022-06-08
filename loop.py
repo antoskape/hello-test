@@ -13,3 +13,7 @@ def test(rounds):
 
 
 test(5)
+
+# Pridany kod pre implementaciu databazy
+database = "path to DB"
+print(database)
