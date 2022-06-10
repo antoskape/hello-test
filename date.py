@@ -9,3 +9,5 @@ print(mydate)
 
 # Uprava 8.6.2022 - zobrazenie casu
 print(FirstStartTime)
+#Zmena vykonana rucne na GitHub
+print("Manual update")
