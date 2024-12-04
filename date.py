@@ -11,3 +11,4 @@ print(mydate)
 print(FirstStartTime)
 #Zmena vykonana rucne na GitHub
 print("Manual update")
+# End
